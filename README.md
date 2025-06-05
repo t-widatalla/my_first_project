@@ -8,3 +8,7 @@ built entirely in c++ language, during my study with
 *programmingAdvices platform course 5*;
 
 #### screenshots
+
+![](1.png)
+![](2.png)
+![](3.png)
